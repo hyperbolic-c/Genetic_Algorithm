@@ -4,6 +4,6 @@
 - data dir -- the resource problem data
 
 - gatsp.py -- the code to solve Traveling Salesman Problem
-- locations10.npy -- the TSP data
+- tspdata -- the TSP data
 
 The rest of the documentation is all about the implementation process.
